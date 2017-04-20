@@ -9,9 +9,9 @@
 	   <img src="http://img1.mydrivers.com/img/20160330/8393c3df33f54ab089a8775b7e73fc63.jpg" alt="图片" width="200" height="300" title="人与机器" ><br>
 	   <a href="https://github.com/">GITHUB</a>
 	   <h2>我的兴趣</h2>
-           <table border=1>
-           <tr><td>影视剧</td><td>计算机</td><td>运动</td></tr>
-           <tr><td>看书</td><td>历史人文</td><td>上网</td></tr>
+           <table border=2>
+               <tr><td>影视剧</td><td>计算机</td><td>运动</td></tr>
+               <tr><td>看书</td><td>历史人文</td><td>上网</td></tr>
            </table>
      </body>
 
